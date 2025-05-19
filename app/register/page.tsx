@@ -88,7 +88,7 @@ export default function RegisterPage() {
                 )}
               />
               <Button type="submit" className="w-full" disabled={isLoading}>
-                {isLoading ? "Registering..." : "Register"}
+                {isLoading ? "Cadastrando..." : "Cadastrasr"}
               </Button>
             </form>
           </Form>
